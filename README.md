@@ -6,6 +6,8 @@ Chapter 1, Git Basics in Practice, serves as a reminder of version control basic
 Git. The focus will be on providing the practical aspects of the technology, showing
 and explaining basic version control operations for the development of an example
 project, and the collaboration between two developers.
+
+
 Chapter 2, Exploring Project History, introduces the concept of the Directed Acyclic
 Graph (DAG) of revisions and explains how this concept relates to the ideas of
 branches, tags, and the current branch in Git. You will learn how to select, filter,
